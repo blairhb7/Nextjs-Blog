@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-img {
+    background-image: url('/Photon-8.3s-3000px.svg');
+    
+    z-index: 100;
+}
+
+.footer-img {
+    background-image: url('/Ocean-50s-2586px (1).svg');
+    background-position: bottom;
+    background-size: cover;
+}
