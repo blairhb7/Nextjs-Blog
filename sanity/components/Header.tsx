@@ -11,7 +11,7 @@ function Header() {
         <div className='hidden md:inline-flex items-center space-x-5'>
         </div>
       </div>
-      <div className=' flex items-center space-x-5 text-blue-600'>
+      <div className=' flex items-center space-x-5 text-black'>
         <h3>Home</h3>
         <Link className=" cursor-pointer" href='https://twitter.com/MovementBlog1'><h3 className=' cursor-pointer border px-4 py-1 rounded-full border-blue-600 hover:text-white hover:bg-blue-500'>Follow Us On Twitter</h3></Link>
       </div>

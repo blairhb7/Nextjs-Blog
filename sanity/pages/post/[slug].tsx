@@ -8,7 +8,7 @@ import { useState } from 'react'
 import Link from "next/link"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faTwitter} from '@fortawesome/free-brands-svg-icons'
-import Footer from "../../components/footer"
+import Footer from "../../components/Footer"
 
 
 
@@ -113,15 +113,15 @@ const Post = ({ post }: Props) => {
 
                 <label className="block mb-5">
                   <span className="text-gray-700">Name</span>
-                  <input {...register("name", {required: true})} className="shadow border rounded py-2 px-3 form-input mt-1 block w-full ring-blue-500 outline-none focus:ring" placeholder="Enter Name" type="text" />
+                  <input {...register("name", {required: true})} className="shadow border border-black  rounded py-2 px-3 form-input mt-1 block w-full ring-blue-500 outline-none focus:ring" placeholder="Enter Name" type="text" />
                 </label>
                 <label className="block mb-5">
                   <span className="text-gray-700">Email</span>
-                  <input {...register("email", {required: true})} className="shadow border rounded py-2 px-3 form-input mt-1 block w-full ring-blue-500 outline-none focus:ring" placeholder="Enter Email" type="email" />
+                  <input {...register("email", {required: true})} className="shadow border border-black  rounded py-2 px-3 form-input mt-1 block w-full ring-blue-500 outline-none focus:ring" placeholder="Enter Email" type="email" />
                 </label>
                 <label className="block mb-5">
                   <span className="text-gray-700">Comment</span>
-                  <textarea {...register("comment", {required: true})} className="shadow border rounded py-2 px-3 form-textarea mt-1 block w-full ring-blue-500 outline-none focus:ring" placeholder="Enter Comment" rows={8} />
+                  <textarea {...register("comment", {required: true})} className="shadow border border-black  rounded py-2 px-3 form-textarea mt-1 block w-full ring-blue-500 outline-none focus:ring" placeholder="Enter Comment" rows={8} />
                 </label>
 
                 {/* errors will return when field validation fails*/ }
