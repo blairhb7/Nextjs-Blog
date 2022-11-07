@@ -6,7 +6,7 @@
 <h1>ABOUT</h1>
 <h3> “Movement a place to write, read, and connect!”</h3>
 <h4. The Goal</h4>
-<P> NFTs are nowadays very trending in the entire world everyone is talking about NFTs from their respective but we are here with some of the NFTs Quotes that will let you think about the new technology NFTS. This web app was built using React Native, design to be a mock NFT app using EXPO. With App becoming more and more popular I built this mock app to simulate what a mordern responsive NFT app what look like. To go along with the application a React built Website was made to showcase the app and NFT store.  </p>
+<P> Nowadays NFT's are trending in the entire world. Everyone is talking about NFTs from their perspective, but we are here with some NFT Quotes that will let you think about the new technology NFTS. This web app was built using React Native, designed to be a mock NFT app using EXPO. With Apps becoming more and more popular I built this mock app to simulate what a mordern responsive NFT app would look like. To go along with the application a React built Website was made to showcase the app and NFT store.  </p>
 
 
 <h1> How it was built </h1>
