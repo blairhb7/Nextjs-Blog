@@ -11,12 +11,15 @@
 
 <h1> How it was built </h1>
 <div style="liststyle: none;">
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png" alt="React" height="50" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+   <a href="https://www.sanity.io/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKByx5f0npiIesgMGlo8W3KIlvRFQkOlHrjU701h_7c4IJrFwQV6dpzbt81h1PnFEJEw&usqp=CAU" alt="TypeScript" height="50" /></a>
   <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
 <h1> View Live Demo </h1>
-<a style="color: #e3bb1c;" href="https://blairnft.netlify.app/"><h3 style="color: #e3bb1c;">Blair NFT Store </h3></a>
+<a style="color: #e3bb1c;" href="https://blairnft.netlify.app/">MOVEMENT</a>
 
 ![nft screenshot](https://user-images.githubusercontent.com/88805312/200400416-42ad5668-af50-4059-a088-98ac52561bc1.png)
