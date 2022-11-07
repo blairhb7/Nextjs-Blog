@@ -22,4 +22,4 @@
 <h1> View Live Demo </h1>
 <a style="color: #e3bb1c;" href="https://blairnft.netlify.app/">MOVEMENT</a>
 
-![nft screenshot](https://user-images.githubusercontent.com/88805312/200400416-42ad5668-af50-4059-a088-98ac52561bc1.png)
+![SCREENSHOT](https://user-images.githubusercontent.com/88805312/200402433-0717f351-b3c0-4cd3-8db1-886312934577.png)
