@@ -20,6 +20,6 @@
 </div>
 
 <h1> View Live Demo </h1>
-<a style="color: #e3bb1c;" href="https://blairnft.netlify.app/">MOVEMENT</a>
+<a style="color: #e3bb1c;" href="https://nextjs-blog-movement1.vercel.app/">MOVEMENT</a>
 
 ![SCREENSHOT](https://user-images.githubusercontent.com/88805312/200402433-0717f351-b3c0-4cd3-8db1-886312934577.png)
